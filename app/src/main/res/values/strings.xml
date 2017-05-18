@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ch04_MemberClassListener</string>
+    <string name="points">Points</string>
+    <string name="pointBegin">0</string>
+    <string name="select1">++</string>
+    <string name="select2">--</string>
+</resources>
